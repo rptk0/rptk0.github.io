@@ -1,0 +1,8 @@
+Origin: Rptk0私人聚合源
+Label: Rptk0合集
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: 自动聚合-无根|隐根|巨魔全插件源
